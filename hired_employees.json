@@ -1,0 +1,39 @@
+{
+   "BigQuery Schema":[
+      {
+        "name": "id",
+        "mode": "",
+        "type": "INTEGER",
+        "description": null,
+        "fields": []
+      },
+      {
+        "name": "name",
+        "mode": "",
+        "type": "STRING",
+        "description": null,
+        "fields": []
+      },
+      {
+        "name": "datetime",
+        "mode": "",
+        "type": "STRING",
+        "description": null,
+        "fields": []
+      },
+      {
+        "name": "department_id",
+        "mode": "",
+        "type": "INTEGER",
+        "description": null,
+        "fields": []
+      },
+      {
+        "name": "job_id",
+        "mode": "",
+        "type": "INTEGER",
+        "description": null,
+        "fields": []
+      }
+    ]
+ }

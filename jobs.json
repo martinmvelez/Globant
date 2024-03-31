@@ -1,0 +1,18 @@
+{
+  "BigQuery Schema":[
+   {
+     "name": "id",
+     "mode": "",
+     "type": "INTEGER",
+     "description": null,
+     "fields": []
+   },
+   {
+     "name": "job",
+     "mode": "",
+     "type": "STRING",
+     "description": null,
+     "fields": []
+   }
+ ]
+}
